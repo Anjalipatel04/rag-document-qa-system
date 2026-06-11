@@ -162,15 +162,9 @@ After uploading a research paper or report:
 
 ### Home Page
 
-![Home Page](https://drive.google.com/file/d/1tNiMX8UCHGXSGzdVHl467KttlLBTbT3z/view?usp=sharing)
-
-### Upload Document
-
-![Upload Document](https://drive.google.com/file/d/1Vok_tYMBytYuzInmus7cQDyb5iB-7dwm/view?usp=sharing)
-
-### Answer with Citations
-
-![Answer](https://drive.google.com/file/d/1mAN_ZPyFT9MNS8u6qQeMiLeW_-YZ3jjG/view?usp=sharing)
+![Home](screenshots/home_page.png)
+![Upload](screenshots/upload_document.png)
+![Answer](screenshots/answer_with_citation.png)
 
 
 ## 🎥 Demo Video
