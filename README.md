@@ -158,6 +158,26 @@ After uploading a research paper or report:
 - "Compare the results in Table 2 vs Table 3"
 
 ---
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](https://drive.google.com/file/d/1tNiMX8UCHGXSGzdVHl467KttlLBTbT3z/view?usp=sharing)
+
+### Upload Document
+
+![Upload Document](https://drive.google.com/file/d/1Vok_tYMBytYuzInmus7cQDyb5iB-7dwm/view?usp=sharing)
+
+### Answer with Citations
+
+![Answer](https://drive.google.com/file/d/1mAN_ZPyFT9MNS8u6qQeMiLeW_-YZ3jjG/view?usp=sharing)
+
+
+## 🎥 Demo Video
+
+Watch the complete project demo:
+
+[▶ Watch Demo Video](https://drive.google.com/file/d/1z9YWSAzMW8mDxjmO65PGJDFNn6larl0z/view?usp=sharing)
 
 ## 🐛 Troubleshooting (Windows)
 
